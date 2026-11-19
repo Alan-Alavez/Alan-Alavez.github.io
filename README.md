@@ -18,7 +18,7 @@ Estudiante de **Ingeniería en Desarrollo de Software Multiplataforma** en la Un
 | Proyecto | Descripción | Enlace |
 |---|---|---|
 | 🌸 Detalles Michu | Tienda en línea de flores artesanales con personalizador de ramos y carrito | [Demo](https://alan-alavez.github.io/detalles-michu/) · [Repo](https://github.com/Alan-Alavez/detalles-michu) |
-| 🎮 Tierra de Nadie – Capítulo I | Videojuego top-down pixel art para navegador, con launcher web e instalador para Windows (proyecto en equipo) | [Launcher](https://alan-alavez.github.io/TierraDeNadieCapI_Launche/) · [Repo](https://github.com/Alan-Alavez/TierraDeNadieCapI_Launche) |
+| 🎮 Tierra de Nadie – Capítulo I | Videojuego top-down pixel art para navegador, con launcher web e instalador para Windows (proyecto en equipo) | [Launcher](https://alan-alavez.github.io/TierraDeNadieCapI_Launcher/) · [Repo](https://github.com/Alan-Alavez/TierraDeNadieCapI_Launcher) |
 | 🐉 Dragon Ball App | App en React que consume la Dragon Ball API | [Repo](https://github.com/Alan-Alavez/dragon-ball-app) |
 | 🛒 BUGISTORE | Tienda de videojuegos con login, catálogo por categorías, carrito, pago y panel de admin (también como app Android) | [Demo](https://alan-alavez.github.io/Bugistore/) · [Repo](https://github.com/Alan-Alavez/Bugistore) |
 
